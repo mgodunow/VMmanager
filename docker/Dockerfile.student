@@ -1,0 +1,35 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Устанавливаем системные зависимости
+RUN apt-get update && apt-get install -y \\
+    gcc \\
+    postgresql-client \\
+    && rm -rf /var/lib/apt/lists/*
+
+# Копируем requirements
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Копируем приложение
+COPY src/ ./src/
+COPY setup_database.py .
+COPY run_student_panel.py .
+
+# Создаем директорию для логов
+RUN mkdir -p logs
+
+# Открываем порт
+EXPOSE 5000
+
+# Запускаем приложение
+CMD ["python", "run_student_panel.py"]
+
+# Создаем директорию docker если не существует
+Path('docker').mkdir(exist_ok=True)
+
+with open('docker/Dockerfile.student', 'w') as f:
+    f.write(dockerfile_content)
+
+print("✓ Dockerfile.student created")

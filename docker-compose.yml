@@ -1,0 +1,83 @@
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: vm_management_db
+    environment:
+      POSTGRES_DB: vm_management
+      POSTGRES_USER: vm_admin
+      POSTGRES_PASSWORD: vm_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vm_admin"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - vm_network
+
+  # Student Panel
+  student_panel:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.student
+    container_name: vm_student_panel
+    environment:
+      FLASK_ENV: development
+      DATABASE_URL: postgresql://vm_admin:vm_password@postgres:5432/vm_management
+      SECRET_KEY: dev-secret-key-change-in-production
+      PROXMOX_HOST: ${PROXMOX_HOST}
+      PROXMOX_USER: ${PROXMOX_USER}
+      PROXMOX_PASSWORD: ${PROXMOX_PASSWORD}
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./src:/app/src
+      - ./logs:/app/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - vm_network
+
+  # Prometheus (для будущего мониторинга)
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: vm_prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./configs/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+    networks:
+      - vm_network
+
+  # Grafana (для будущей визуализации)
+  grafana:
+    image: grafana/grafana:latest
+    container_name: vm_grafana
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin
+    volumes:
+      - grafana_data:/var/lib/grafana
+    depends_on:
+      - prometheus
+    networks:
+      - vm_network
+
+volumes:
+  postgres_data:
+  prometheus_data:
+  grafana_data:
+
+networks:
+  vm_network:
+    driver: bridge

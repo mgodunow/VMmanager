@@ -1,0 +1,647 @@
+2026-01-13 16:23:00 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:24:16 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:25:14 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:26:05 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:26:06 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:26:07 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:26:07 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:27:34 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 41, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:28:32 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 41, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:29:09 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 41, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:30:26 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:30:27 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:30:27 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:30:28 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:33:34 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:33:34 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:33:58 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:33:58 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:33:59 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:33:59 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:35:47 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:35:47 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:35:48 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:35:48 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:37:35 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:37:35 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:37:55 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:37:56 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:37:57 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:37:57 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:38:08 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:38:08 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:38:25 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 45, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:38:47 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:38:47 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:38:52 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:38:52 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:38:53 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:38:54 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:38:56 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 45, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:39:00 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 45, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:41:18 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:41:18 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:41:26 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:41:26 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:41:27 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:41:27 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:41:35 - student_panel.routes.auth - ERROR - Login error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\auth.py", line 45, in login
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:44:10 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:44:12 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:44:13 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:44:13 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:44:14 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:44:24 - student_panel.routes.auth - INFO - User logged in successfully: student1
+2026-01-13 16:44:24 - student_panel.routes.vm_control - ERROR - Dashboard error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 23, in dashboard
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:50:48 - student_panel.routes.vm_control - ERROR - Dashboard error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 23, in dashboard
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:51:03 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:51:04 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:51:05 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:51:05 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:51:09 - student_panel.routes.vm_control - ERROR - Dashboard error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 23, in dashboard
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:51:42 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:51:42 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:52:12 - student_panel.routes.vm_control - ERROR - Dashboard error: 'Request' object has no attribute 'app'
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 23, in dashboard
+    db_manager = request.app.config['DB_MANAGER']
+                 ^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'app'
+2026-01-13 16:52:26 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:52:26 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:52:29 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:52:29 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:52:48 - student_panel - INFO - Starting Student Panel application
+2026-01-13 16:52:48 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 16:57:13 - student_panel.routes.vm_control - ERROR - Error getting VM status: HTTPSConnectionPool(host='192.168.0.159', port=8006): Max retries exceeded with url: /api2/json/nodes/pve/qemu/100/status/current (Caused by ConnectTimeoutError(<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d247210>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)'))
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d247210>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='192.168.0.159', port=8006): Max retries exceeded with url: /api2/json/nodes/pve/qemu/100/status/current (Caused by ConnectTimeoutError(<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d247210>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 144, in _request
+    resp = self._store["session"].request(method, url, data=data, params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\backends\https.py", line 229, in request
+    return super().request(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\adapters.py", line 507, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='192.168.0.159', port=8006): Max retries exceeded with url: /api2/json/nodes/pve/qemu/100/status/current (Caused by ConnectTimeoutError(<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d247210>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)'))
+2026-01-13 16:58:14 - student_panel.routes.vm_control - ERROR - Error getting VM status: HTTPSConnectionPool(host='192.168.0.159', port=8006): Max retries exceeded with url: /api2/json/nodes/pve/qemu/100/status/current (Caused by ConnectTimeoutError(<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d278410>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)'))
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d278410>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='192.168.0.159', port=8006): Max retries exceeded with url: /api2/json/nodes/pve/qemu/100/status/current (Caused by ConnectTimeoutError(<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d278410>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 144, in _request
+    resp = self._store["session"].request(method, url, data=data, params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\backends\https.py", line 229, in request
+    return super().request(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\requests\adapters.py", line 507, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='192.168.0.159', port=8006): Max retries exceeded with url: /api2/json/nodes/pve/qemu/100/status/current (Caused by ConnectTimeoutError(<HTTPSConnection(host='192.168.0.159', port=8006) at 0x1d24d278410>, 'Connection to 192.168.0.159 timed out. (connect timeout=5)'))
+2026-01-13 17:06:12 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:07:15 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:07:15 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:07:16 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:07:16 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:10:31 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:10:31 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:10:32 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:10:32 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:11:55 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:12:05 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:12:15 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:12:25 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:12:35 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:12:45 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:12:55 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:13:05 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:13:15 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:13:25 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:13:35 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:14:12 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:14:34 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:14:45 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:14:55 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:15:05 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:15:15 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:15:25 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:15:35 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:15:45 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:15:55 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:16:05 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:16:15 - student_panel.routes.vm_control - ERROR - Error getting VM status: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 228, in get_vm_status
+    proxmox_status = proxmox.get_vm_status(vm.node, vm.vmid)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\proxmox\client.py", line 34, in get_vm_status
+    return self.proxmox.nodes(node).qemu(vmid).status.current.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 169, in get
+    return self(args)._request("GET", params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mikha\Desktop\diplom2\venv\Lib\site-packages\proxmoxer\core.py", line 149, in _request
+    raise ResourceException(
+proxmoxer.core.ResourceException: 500 Internal Server Error: Configuration file 'nodes/pve/qemu-server/100.conf' does not exist
+2026-01-13 17:18:57 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:18:58 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:18:58 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:18:59 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:32:08 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:32:08 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:32:09 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:32:09 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:43:21 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:43:21 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:43:22 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:43:22 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:43:36 - student_panel.routes.vm_control - ERROR - Error starting VM: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 112, in start_vm
+    vm_repo.update_status(vm.id, VMStatus.RUNNING)
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\database\repositories.py", line 81, in update_status
+    vm.updated_at = datetime.utcnow()
+                    ^^^^^^^^
+NameError: name 'datetime' is not defined
+2026-01-13 17:45:31 - student_panel.routes.vm_control - ERROR - Error stopping VM: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mikha\Desktop\diplom2\src\student_panel\routes\vm_control.py", line 186, in stop_vm
+    vm_repo.update_status(vm.id, VMStatus.STOPPED)
+  File "C:\Users\mikha\Desktop\diplom2\src\infrastructure\database\repositories.py", line 81, in update_status
+    vm.updated_at = datetime.utcnow()
+                    ^^^^^^^^
+NameError: name 'datetime' is not defined
+2026-01-13 17:47:56 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:47:56 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:48:03 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:48:04 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:48:04 - student_panel - INFO - Starting Student Panel application
+2026-01-13 17:48:05 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-13 17:48:20 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
+2026-01-13 17:49:44 - student_panel.routes.vm_control - WARNING - VM 100 force stopped by user 2

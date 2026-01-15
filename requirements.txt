@@ -1,0 +1,19 @@
+Flask==3.0.0
+Flask-Session==0.5.0
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+proxmoxer==2.0.1
+PyJWT==2.8.0
+python-dotenv==1.0.0
+requests==2.31.0
+alembic==1.13.1
+pyyaml==6.0.1
+
+# Для тестирования
+pytest==7.4.3
+pytest-flask==1.3.0
+
+# Для будущих компонентов
+fastapi==0.105.0
+uvicorn==0.25.0
+prometheus-client==0.19.0
