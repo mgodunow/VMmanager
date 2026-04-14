@@ -1,0 +1,58 @@
+
+orchestrator_config:
+  # Конфигурация оркестратора VM Management System
+
+  # Мониторинг
+  monitoring:
+    # Интервал сбора метрик (секунды)
+    collection_interval_seconds: 300  # 5 минут
+    
+    # Хранение истории метрик (дни)
+    metrics_retention_days: 7
+
+  # Монитор неактивных ВМ
+  inactivity_monitor:
+    # Включить/выключить
+    enabled: true
+    
+    # Интервал проверки (секунды)
+    check_interval_seconds: 600  # 10 минут
+    
+    # Порог неактивности (минуты)
+    # ВМ будет выключена если неактивна более этого времени
+    inactivity_threshold_minutes: 60  # 1 час
+    
+    # Критерии неактивности (встроены в код):
+    # - CPU < 5%
+    # - Сетевой трафик < 0.01 MB/s (10 KB/s)
+
+  # Автомасштабирование
+  auto_scaler:
+    # Включить/выключить
+    enabled: true
+    
+    # Интервал проверки (секунды)
+    check_interval_seconds: 600  # 10 минут
+    
+    # Порог CPU для масштабирования (%)
+    cpu_threshold: 85.0
+    
+    # Порог памяти для масштабирования (%)
+    memory_threshold: 85.0
+    
+    # Максимальные ресурсы
+    max_cpu_cores: 8
+    max_memory_gb: 16
+    
+    # Период проверки метрик для принятия решения (минуты)
+    check_period_minutes: 10
+
+  # Режим тестирования
+  # В этом режиме действия логируются, но не выполняются
+  dry_run: false
+
+  # Логирование
+  logging:
+    level: INFO
+    file: logs/orchestrator.log
+

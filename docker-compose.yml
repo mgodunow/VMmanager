@@ -81,3 +81,26 @@ volumes:
 networks:
   vm_network:
     driver: bridge
+
+orchestrator:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.orchestrator
+    container_name: vm_orchestrator
+    environment:
+      DATABASE_URL: postgresql://vm_admin:vm_password@postgres:5432/vm_management
+      PROXMOX_HOST: ${PROXMOX_HOST}
+      PROXMOX_USER: ${PROXMOX_USER}
+      PROXMOX_PASSWORD: ${PROXMOX_PASSWORD}
+      PROXMOX_VERIFY_SSL: false
+    volumes:
+      - ./src:/app/src
+      - ./configs:/app/configs
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - vm_network
+    restart: unless-stopped

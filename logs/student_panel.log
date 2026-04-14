@@ -645,3 +645,97 @@ NameError: name 'datetime' is not defined
 2026-01-13 17:48:05 - student_panel - INFO - Student Panel application initialized successfully
 2026-01-13 17:48:20 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
 2026-01-13 17:49:44 - student_panel.routes.vm_control - WARNING - VM 100 force stopped by user 2
+2026-01-20 12:24:42 - student_panel - INFO - Starting Student Panel application
+2026-01-20 12:25:53 - student_panel - INFO - Starting Student Panel application
+2026-01-20 12:25:54 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-20 12:25:55 - student_panel - INFO - Starting Student Panel application
+2026-01-20 12:25:55 - student_panel - INFO - Student Panel application initialized successfully
+2026-01-20 12:27:14 - student_panel.routes.auth - INFO - User logged in successfully: student1
+2026-01-20 12:28:26 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
+2026-01-20 12:30:25 - student_panel.routes.vm_control - WARNING - VM 100 force stopped by user 2
+2026-03-25 11:11:37 - student_panel - INFO - Starting Student Panel application
+2026-03-25 11:11:37 - student_panel - INFO - Student Panel application initialized successfully
+2026-03-25 11:11:39 - student_panel - INFO - Starting Student Panel application
+2026-03-25 11:11:39 - student_panel - INFO - Student Panel application initialized successfully
+2026-03-25 11:13:43 - student_panel.routes.auth - WARNING - Failed login attempt for user: student1
+2026-03-25 11:13:48 - student_panel.routes.auth - INFO - User logged in successfully: student1
+2026-04-01 12:58:17 - student_panel - INFO - Starting Student Panel application
+2026-04-01 12:58:18 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 12:58:30 - student_panel - INFO - Starting Student Panel application
+2026-04-01 12:58:31 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 12:59:31 - student_panel - INFO - Starting Student Panel application
+2026-04-01 12:59:31 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 12:59:37 - student_panel - INFO - Starting Student Panel application
+2026-04-01 12:59:37 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:12:12 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:12:13 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:12:19 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:12:19 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:18:55 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:18:55 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:21:06 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:21:07 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:21:37 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:21:37 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:23:15 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:23:15 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:23:28 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:23:28 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:24:21 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:24:21 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:24:27 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:24:28 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:26:02 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:26:02 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:26:05 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:26:05 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:27:46 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:27:46 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:27:53 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:27:53 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:27:56 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:27:56 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:30:35 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:30:35 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:30:39 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:30:39 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:30:47 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:30:47 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:31:14 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:31:14 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:32:21 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:32:22 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:33:56 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:33:56 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:34:01 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:34:02 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:36:42 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:36:42 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:37:17 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:37:17 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:37:25 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:37:26 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:37:31 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:37:31 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:37:32 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:37:32 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:37:34 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:37:34 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:38:22 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:38:22 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:39:36 - student_panel - INFO - Starting Student Panel application
+2026-04-01 13:39:36 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-01 13:40:39 - student_panel.routes.auth - INFO - User logged in successfully: student1
+2026-04-01 13:40:44 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
+2026-04-01 13:55:24 - student_panel.routes.vm_control - WARNING - VM 100 force stopped by user 2
+2026-04-01 13:55:33 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
+2026-04-09 14:11:56 - student_panel - INFO - Starting Student Panel application
+2026-04-09 14:11:56 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-09 14:11:57 - student_panel - INFO - Starting Student Panel application
+2026-04-09 14:11:58 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-09 14:18:12 - student_panel - INFO - Starting Student Panel application
+2026-04-09 14:18:12 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-09 14:18:13 - student_panel - INFO - Starting Student Panel application
+2026-04-09 14:18:14 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-09 14:20:01 - student_panel.routes.auth - INFO - User logged in successfully: student1
+2026-04-09 14:20:11 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
