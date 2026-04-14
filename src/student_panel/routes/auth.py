@@ -79,7 +79,7 @@ def login():
             flash('Ошибка при входе. Попробуйте позже', 'error')
             return render_template('login.html')
     
-    return render_template('088')
+    return render_template('login.html')
 
 @auth_bp.route('/logout')
 def logout():

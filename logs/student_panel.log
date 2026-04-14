@@ -739,3 +739,14 @@ NameError: name 'datetime' is not defined
 2026-04-09 14:18:14 - student_panel - INFO - Student Panel application initialized successfully
 2026-04-09 14:20:01 - student_panel.routes.auth - INFO - User logged in successfully: student1
 2026-04-09 14:20:11 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
+2026-04-14 10:50:36 - student_panel - INFO - Starting Student Panel application
+2026-04-14 10:50:37 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-14 10:50:38 - student_panel - INFO - Starting Student Panel application
+2026-04-14 10:50:38 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-14 10:56:14 - student_panel - INFO - Starting Student Panel application
+2026-04-14 10:56:14 - student_panel - INFO - Student Panel application initialized successfully
+2026-04-14 10:56:22 - student_panel.routes.auth - INFO - User logged in successfully: student2
+2026-04-14 10:56:38 - student_panel.routes.vm_control - INFO - VM 101 started by user 3
+2026-04-14 10:56:44 - student_panel.routes.auth - INFO - User logged out: student2
+2026-04-14 10:56:47 - student_panel.routes.auth - INFO - User logged in successfully: student1
+2026-04-14 10:56:52 - student_panel.routes.vm_control - INFO - VM 100 started by user 2
